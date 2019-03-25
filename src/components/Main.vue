@@ -26,7 +26,7 @@
       <li>Can't remember</li>
     </ul>
     <h3>Contact Me</h3>
-    <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a>
+    <a href="https://www.w3schools.com" target="_blank">Lmaozers</a>
     <h3>Ecosystem</h3>
   </div>
 </template>
