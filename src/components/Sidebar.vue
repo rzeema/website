@@ -1,6 +1,8 @@
 <template>
   <div class="sidebar">
-    <a href="#">Home</a>
+    <a href="#Header">
+      <img src="https://image.flaticon.com/icons/svg/25/25694.svg" alt="Smiley face" height="42" width="42">
+    </a>
     <a href="#">Projects</a>
     <a href="#">Resume</a>
     <a href="#">Skills</a>
@@ -23,8 +25,9 @@ export default {
   width: 90px;
   height: 100%;
   background-color: #555;
-  top:0%;
+  top: 0%;
   left: 0%;
+  z-index: 1;
 }
 .sidebar a {
   display: block;
